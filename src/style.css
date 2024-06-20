@@ -1,0 +1,23 @@
+body {
+  background: #f1f3f7 !important;
+}
+
+.menu-item {
+  text-transform: none !important;
+}
+
+.special-label {
+  display: none !important;
+}
+
+.MuiGrid-root {
+  padding-top: 5px !important;
+}
+
+.inputSelectAthlete {
+  border: none !important;
+}
+
+button {
+  text-transform: none !important;
+}
